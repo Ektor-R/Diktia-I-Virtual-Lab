@@ -1,0 +1,436 @@
+-------------------------[2021-05-06-22-24-21-4]-------------------------
+Modem Speed: 1000kbps
+Students online: 4
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting echo packet test (2021-05-06-22-24-24-0)
+
+ -Write:E1065
+
+Finished echo packet test (2021-05-06-22-29-24-4)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-37-28-1]-------------------------
+Modem Speed: 2000kbps
+Students online: 3
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting echo packet test (2021-05-06-22-37-29-5)
+
+ -Write:E1065
+
+Finished echo packet test (2021-05-06-22-41-29-9)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-43-37-6]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:M7185 
+
+Start downloading image E1 (2021-05-06-22-43-37-8)
+
+Finished downloading image E1 (2021-05-06-22-43-50-7)
+
+Start creating image E1 (2021-05-06-22-43-50-7)
+
+Finished creating image E1 (2021-05-06-22-43-52-5)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-44-56-0]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:G6708
+
+Start downloading image E2 (2021-05-06-22-44-56-1)
+
+Finished downloading image E2 (2021-05-06-22-45-11-1)
+
+Start creating image E2 (2021-05-06-22-45-11-1)
+
+Finished creating image E2 (2021-05-06-22-45-13-1)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-47-47-5]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:P2360R=1000099
+
+Get GPS traces (2021-05-06-22-47-47-7)
+$GPGGA,103515.000,4037.6180,N,02257.5875,E,2,06,2.1,39.0,M,36.1,M,2.0,0000*49
+$GPGGA,103535.000,4037.6154,N,02257.5834,E,2,06,2.1,41.5,M,36.1,M,12.0,0000*7C
+$GPGGA,103555.000,4037.6243,N,02257.5722,E,1,09,1.1,44.5,M,36.1,M,,0000*60
+$GPGGA,103615.000,4037.6469,N,02257.5436,E,1,09,1.1,41.4,M,36.1,M,,0000*6B
+$GPGGA,103635.000,4037.6495,N,02257.5372,E,1,09,1.1,42.4,M,36.1,M,,0000*6E
+
+-Write:P2360T=225735403737T=225735403737T=225734403737T=225733403739T=225732403739
+
+Start downloading image M1 (2021-05-06-22-47-49-1)
+
+Finished downloading image M1 (2021-05-06-22-48-08-8)
+
+Start creating image M1 (2021-05-06-22-48-08-8)
+
+Finished creating image M1 (2021-05-06-22-48-12-1)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-49-58-9]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:P2360R=1050099
+
+Get GPS traces (2021-05-06-22-49-59-1)
+$GPGGA,104335.000,4037.6629,N,02257.1867,E,1,07,1.2,19.7,M,36.1,M,,0000*62
+$GPGGA,104355.000,4037.7749,N,02257.2012,E,1,07,1.4,29.5,M,36.1,M,,0000*6C
+$GPGGA,104415.000,4037.8403,N,02257.2126,E,1,08,1.1,33.6,M,36.1,M,,0000*69
+$GPGGA,104435.000,4037.8402,N,02257.2123,E,1,09,1.1,33.2,M,36.1,M,,0000*6A
+$GPGGA,104455.000,4037.8402,N,02257.2122,E,1,09,1.1,33.0,M,36.1,M,,0000*6F
+
+-Write:P2360T=225711403740T=225712403746T=225713403750T=225713403750T=225713403750
+
+Start downloading image M1 (2021-05-06-22-50-00-5)
+
+Finished downloading image M1 (2021-05-06-22-50-20-8)
+
+Start creating image M1 (2021-05-06-22-50-20-8)
+
+Finished creating image M1 (2021-05-06-22-50-24-2)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-52-08-6]-------------------------
+Modem Speed: 1000kbps
+Students online: 3
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting ARQ test (2021-05-06-22-52-10-7)
+
+ -ACK: Q0185
+ -NACK: R5258
+
+Finished ARQ test (2021-05-06-22-57-10-8)
+ACK code sent 356 times
+NACK code sent 89 times
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-06-22-58-14-9]-------------------------
+Modem Speed: 2000kbps
+Students online: 3
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting ARQ test (2021-05-06-22-58-16-2)
+
+ -ACK: Q0185
+ -NACK: R5258
+
+Finished ARQ test (2021-05-06-23-03-16-3)
+ACK code sent 665 times
+NACK code sent 189 times
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-24-55-11-3]-------------------------
+Modem Speed: 2000kbps
+Students online: 2
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting echo packet test (2021-05-09-24-55-12-4)
+
+ -Write:E1862
+
+Finished echo packet test (2021-05-09-01-00-12-6)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-00-51-4]-------------------------
+Modem Speed: 8000kbps
+Students online: 2
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting echo packet test (2021-05-09-01-00-51-8)
+
+ -Write:E1862
+
+Finished echo packet test (2021-05-09-01-05-51-8)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-07-51-4]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:M3200
+
+Start downloading image E1 (2021-05-09-01-07-51-6)
+
+Finished downloading image E1 (2021-05-09-01-08-04-8)
+
+Start creating image E1 (2021-05-09-01-08-04-8)
+
+Finished creating image E1 (2021-05-09-01-08-07-1)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-08-48-7]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:G0158
+
+Start downloading image E2 (2021-05-09-01-08-48-9)
+
+Finished downloading image E2 (2021-05-09-01-09-02-1)
+
+Start creating image E2 (2021-05-09-01-09-02-1)
+
+Finished creating image E2 (2021-05-09-01-09-04-2)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-14-21-1]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:P4772R=1006999
+
+Get GPS traces (2021-05-09-01-14-21-3)
+$GPGGA,103624.000,4037.6492,N,02257.5411,E,1,09,1.1,40.9,M,36.1,M,,0000*64
+$GPGGA,103644.000,4037.6482,N,02257.5316,E,1,09,1.1,42.4,M,36.1,M,,0000*6C
+$GPGGA,103704.000,4037.6835,N,02257.4870,E,2,07,1.6,41.2,M,36.1,M,2.0,0000*40
+$GPGGA,103724.000,4037.7389,N,02257.4790,E,2,07,1.6,40.0,M,36.1,M,12.0,0000*7C
+$GPGGA,103744.000,4037.7807,N,02257.5401,E,1,09,1.1,48.3,M,36.1,M,,0000*61
+
+-Write:P4772T=225732403739T=225732403739T=225729403741T=225729403744T=225732403747
+
+Start downloading image M1 (2021-05-09-01-14-22-8)
+
+Finished downloading image M1 (2021-05-09-01-14-43-2)
+
+Start creating image M1 (2021-05-09-01-14-43-2)
+
+Finished creating image M1 (2021-05-09-01-14-46-7)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-17-02-5]-------------------------
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+-Write:P4772R=1020099
+
+Get GPS traces (2021-05-09-01-17-02-7)
+$GPGGA,103835.000,4037.7142,N,02257.5955,E,1,09,1.1,48.9,M,36.1,M,,0000*66
+$GPGGA,103855.000,4037.7032,N,02257.6994,E,1,09,1.1,55.0,M,36.1,M,,0000*6D
+$GPGGA,103915.000,4037.7034,N,02257.7780,E,2,07,1.6,60.7,M,36.1,M,2.0,0000*43
+$GPGGA,103935.000,4037.6900,N,02257.7860,E,2,07,1.6,61.8,M,36.1,M,12.0,0000*70
+$GPGGA,103955.000,4037.6694,N,02257.8001,E,1,09,1.1,62.4,M,36.1,M,,0000*6C
+
+-Write:P4772T=225736403743T=225742403742T=225747403742T=225747403741T=225748403740
+
+Start downloading image M1 (2021-05-09-01-17-04-0)
+
+Finished downloading image M1 (2021-05-09-01-17-24-0)
+
+Start creating image M1 (2021-05-09-01-17-24-0)
+
+Finished creating image M1 (2021-05-09-01-17-27-7)
+
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-19-32-1]-------------------------
+Modem Speed: 2000kbps
+Students online: 2
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting ARQ test (2021-05-09-01-19-33-3)
+
+ -ACK: Q7699
+ -NACK: R4600
+
+Finished ARQ test (2021-05-09-01-24-33-5)
+ACK code sent 628 times
+NACK code sent 130 times
+-------------------------END-------------------------
+
+
+
+-------------------------[2021-05-09-01-25-24-1]-------------------------
+Modem Speed: 8000kbps
+Students online: 2
+
+Hello stranger !
+
+Welcome to our experimental virtual lab.
+
+Server Ithaki is ready to accept experimental protocol commands.
+
+NOTE : In Virtual Terminal mode type TEST to have the connection tested.
+
+
+
+Starting ARQ test (2021-05-09-01-25-24-6)
+
+ -ACK: Q7699
+ -NACK: R4600
+
+Finished ARQ test (2021-05-09-01-30-24-8)
+ACK code sent 1541 times
+NACK code sent 746 times
+-------------------------END-------------------------
+
+
+
